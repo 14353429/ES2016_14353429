@@ -66,7 +66,7 @@ $  <property name="systemc.lib" value="YYY/lib-linux/libsystemc.a"/>
 
 到此完成DOL配置，结果如图所示：
 
- ![1](1.png)
+ ![1](https://github.com/14353429/ES2016_14353429/blob/master/image/1.png)
 
 ## 三、 实验感想
 
