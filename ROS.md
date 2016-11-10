@@ -78,7 +78,7 @@ sudo ninja install
 
 ​	这里test成功：
 
- ![passTest](https://github.com/14353429/ES2016_14353429/tree/master/image/passTest.png)
+ ![passTest](https://github.com/14353429/ES2016_14353429/blob/master/image/passTest.png)
 
 ​	然后接着
 
@@ -99,7 +99,7 @@ sudo ninja install
 
 ​	test成功：
 
- ![passTest2](https://github.com/14353429/ES2016_14353429/tree/master/image/passTest2.png)
+ ![passTest2](https://github.com/14353429/ES2016_14353429/blob/master/image/passTest2.png)
 
 ​	但是上面那里的配置还是会出错，唉实在没办法了。
 
